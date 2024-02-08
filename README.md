@@ -2,7 +2,7 @@
  
 ## Sobre mim
 
-- 🤔 Procuro sempre estar aprendendo coisas novas sobre lingagens de programação.
+- 🤔 Procuro sempre estar aprendendo coisas novas na área da tecnologia.
 - 🎓 Cursando Ciência da Computação no Centro Universitário Farias Brito.
 - 💼 Procuro trabalho na área de tecnologia.
 - 🌱 Aprendendo mais sobre HTML, CSS e futuramente JavaScript
