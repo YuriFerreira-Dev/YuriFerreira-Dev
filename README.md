@@ -1,4 +1,4 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=30b00c&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=170&color=carmesin&text=Yuri%20Ferreira&section=header&reversal=true&textBg=false&fontColor=f5f5f5&fontAlign=50&fontAlignY=48)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=carmesin&text=Yuri%20Ferreira&section=header&reversal=true&textBg=false&fontColor=f5f5f5&fontAlign=50&fontAlignY=48"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33cc08&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Yuri+Ferreira;Eu+tenho+19+anos;Eu+estou+estudando+Full+Stack;Ciências+da+Computação+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
