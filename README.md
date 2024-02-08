@@ -13,9 +13,5 @@
 <a href="https://www.linkedin.com/in/yuri-ferreira-a90671284?" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
  </div>
   
-  ### Minhas Habilidades:
-  <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30b00c&height=120&section=footer"/>
