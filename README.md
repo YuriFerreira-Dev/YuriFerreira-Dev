@@ -18,9 +18,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<div align="center">  
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFerreira-Dev&layout=compact&langs_count=16&theme=shadow_green" alt="Yuri Status"/> 
-
 <div align="center"> 
 <a href="https://www.instagram.com/yuriferreira4606/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:yuriferreira260305@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
