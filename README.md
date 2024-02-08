@@ -1,6 +1,22 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=carmesin&text=Yuri%20Ferreira&section=header&reversal=true&textBg=false&fontColor=f5f5f5&fontSize=37&fontAlign=50&fontAlignY=48&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33cc08&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Yuri+Ferreira;Eu+tenho+19+anos;Eu+estou+estudando+Full+Stack;Ciências+da+Computação+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+## Sobre mim
+
+- 🤔 Sempre procuro aprender sobre novas lingagens nde programação.
+- 🎓 Cursando Ciência da Computação no Centro Universitário Farias Brito.
+- 💼 Open to Work
+- 🌱 Aprendendo mais sobre HTML, CSS e futuramente JavaScript
+
+## Minhas Skills
+
+*Aplicações e dados*
+
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python]
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 <div align="center">  
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFerreira-Dev&layout=compact&langs_count=16&theme=shadow_green" alt="Yuri Status"/> 
